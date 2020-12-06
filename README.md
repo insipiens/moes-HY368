@@ -4,7 +4,7 @@ This device requires batteries with a nominal voltage of 1.5 volts
 
 There is a low battery alert which is triggered by voltage drops below this.
 
-For those wanting to use rechargable batteries this is a problem as NiMH batteries with a nominal voltage of 1.2v typically have an actual voltage of 1.5v after a full recharge. This quickly drops to close to 1.2v causing low battery alerts. Quite often this is shown by receiving multiple low battery alerts - the cause is a voltage drop during operation of the motor.
+NiMH batteries with a nominal voltage of 1.2v typically have an actual voltage of 1.5v after a full recharge. This quickly drops to close to 1.2v causing low battery alerts. Quite often this is shown by receiving multiple low battery alerts as there is an intermittent voltage drop during operation [of the motor].
 
 This is my solution - using a cheap buck voltage converter. Works well on the HY368 from Moes due to a space beneath the battery compartment capable of hiding a small converter.
 
