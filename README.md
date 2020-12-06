@@ -16,6 +16,6 @@ A fine solder tip is useful....
 
 A greener solution than using dry cell batteries, and less low battery alerts when using NiCad or NiMH batteries!
 
-*note: converters pull some current continually...maybe more efficient converters can be found.gable batteries 
+*note: converters pull some current continually...maybe more efficient converters can be found.
 
 Also alternative forms of rechargable batteries could be used with the AA form. Ni-Zn batteries have been mentioned. I have not used these so no idea if they have any limitations over Ni-MH chemistry
